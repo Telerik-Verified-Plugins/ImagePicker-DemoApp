@@ -1,0 +1,45 @@
+{
+  "ProjectName": "ImagePicker",
+  "ProjectGuid": "aee6c45a-5be4-4f28-bce8-c5bacd517ae2",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ImagePicker",
+  "DisplayName": "ImagePicker",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{970ef5e4-9e20-4087-9003-1971b8fa48b1}",
+  "WP8ProductID": "{c57d7960-ca61-4394-aea4-d29b154f2066}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ImagePicker",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
