@@ -38,7 +38,7 @@
           {
             maximumImagesCount: 3,
             quality: 20,
-            width: 2
+            width: 400
             // this works, it's just not used in this demo:
             // outputType: imagePicker.OutputType.BASE64_STRING
           }
