@@ -6,7 +6,7 @@
   "DisplayName": "ImagePicker",
   "Author": "Telerik",
   "Description": "ImagePicker",
-  "BundleVersion": "1.0",
+  "BundleVersion": "1.0.1",
   "AndroidVersionCode": "2",
   "iOSDeviceFamily": [
     "1",
@@ -43,12 +43,14 @@
     "ID_RESOLUTION_HD720P"
   ],
   "CorePlugins": [
+    "com.synconset.imagepicker@1.0.8",
     "cordova-plugin-console",
     "cordova-plugin-crosswalk-webview@1.2.0",
     "cordova-plugin-device",
     "cordova-plugin-dialogs",
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar",
-    "cordova-plugin-vibration"
+    "cordova-plugin-vibration",
+    "cordova-plugin-whitelist"
   ]
 }
