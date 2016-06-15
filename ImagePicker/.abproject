@@ -43,7 +43,7 @@
     "ID_RESOLUTION_HD720P"
   ],
   "CorePlugins": [
-    "com.synconset.imagepicker@2.1.1",
+    "com.synconset.imagepicker@2.1.2",
     "org.apache.cordova.console",
     "org.apache.cordova.device",
     "org.apache.cordova.dialogs",
